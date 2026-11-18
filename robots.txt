@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://medifis.cl/sitemap.xml
